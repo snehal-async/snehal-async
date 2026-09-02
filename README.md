@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=220&section=header&text=Snehal%20Solanke&fontSize=50&fontColor=0B1220&animation=twinkling&fontAlignY=35&desc=FULL%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/ss-solanke96k">
+<a href="https://github.com/snehal-async">
   <img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=0B1220" />
 </a>
 
@@ -12,8 +12,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ss-solanke96k&label=Profile%20Views&color=7DD3FC&style=flat" />
-<img src="https://img.shields.io/github/followers/ss-solanke96k?label=Followers&style=flat&color=7DD3FC" />
+<img src="https://komarev.com/ghpvc/?username=snehal-async&label=Profile%20Views&color=7DD3FC&style=flat" />
+<img src="https://img.shields.io/github/followers/snehal-async?label=Followers&style=flat&color=7DD3FC" />
 
 </div>
 
@@ -79,7 +79,7 @@ const snehalSolanke = {
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ss-solanke96k&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=snehal-async&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </div>
 
 ## 📈 Contribution Graph
