@@ -122,17 +122,15 @@ A GitHub repository for technical training work and development projects.
 
 </div>
 
----
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehal-async&bg_color=0B1220&color=7DD3FC&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="GitHub Contribution Graph"/>
+<img src="https://YOUR-OWN-DEPLOYMENT-URL/graph?username=snehal-async&bg_color=0B1220&color=7DD3FC&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub Contribution Graph"/>
 
 </div>
 
----
 
 ## 🎯 Current Focus
 
