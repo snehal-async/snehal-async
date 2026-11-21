@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=220&section=header&text=Snehal%20Solanke&fontSize=50&fontColor=0B1220&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20CS%20STUDENT&descAlignY=55&descSize=18" width="100%" alt="Snehal Solanke Header"/>
 
 <a href="https://github.com/snehal-async">
-  <img src="https://img.shields.io/badge/GitHub-snehal--async-0B1220?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="GitHub Profile"/>
+  <img src="https://img.shields.io/badge/GitHub-snehal-async-0B1220?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="GitHub Profile"/>
 </a>
 <a href="https://www.linkedin.com/in/snehal-solanke-350691312">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=7DD3FC" alt="LinkedIn"/>
